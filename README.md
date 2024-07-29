@@ -48,5 +48,7 @@
 3. 在底部導航欄，你可以切換到作者介紹和最新活動頁面，獲取更多資訊。
 4. 使用音樂播放清單功能，可以創建和管理你的個人播放清單，收藏喜愛的音樂。
 
-感謝您使用天籟之聲，我們希望您能夠透過這個App，發現並愛上台灣原住民音樂的無窮魅力！ </br>
-Youtube: https://www.youtube.com/watch?v=xicoTma5dNE
+感謝您使用天籟之聲，我們希望您能夠透過這個App，發現並愛上台灣原住民音樂的無窮魅力！ 
+
+## Youtube
+https://www.youtube.com/watch?v=xicoTma5dNE
