@@ -1,5 +1,7 @@
 # 天籟之聲：台灣原住民音樂
 
+<img width="948" alt="Screenshot 2024-07-29 at 17 02 28" src="https://github.com/user-attachments/assets/385a0769-5c1e-4ba0-9b2f-1856f844ccb5">
+
 ## 簡介
 
 天籟之聲是一款專注於展示和推廣台灣原住民音樂的iOS應用程式。透過這款App，使用者可以探索台灣原住民音樂的美麗，並進一步了解原住民的生活、信仰和歷史。這個應用程式涵蓋了從音樂播放到作者介紹以及最新活動的各種功能，旨在讓更多人認識和欣賞原住民音樂的獨特魅力。
@@ -46,6 +48,5 @@
 3. 在底部導航欄，你可以切換到作者介紹和最新活動頁面，獲取更多資訊。
 4. 使用音樂播放清單功能，可以創建和管理你的個人播放清單，收藏喜愛的音樂。
 
-<img width="948" alt="Screenshot 2024-07-29 at 17 02 28" src="https://github.com/user-attachments/assets/385a0769-5c1e-4ba0-9b2f-1856f844ccb5">
-
-感謝您使用天籟之聲，我們希望您能夠透過這個App，發現並愛上台灣原住民音樂的無窮魅力！Youtube: https://www.youtube.com/watch?v=xicoTma5dNE
+感謝您使用天籟之聲，我們希望您能夠透過這個App，發現並愛上台灣原住民音樂的無窮魅力！
+Youtube: https://www.youtube.com/watch?v=xicoTma5dNE
