@@ -50,8 +50,6 @@
 
 感謝您使用天籟之聲，我們希望您能夠透過這個App，發現並愛上台灣原住民音樂的無窮魅力！ 
 
-## Youtube
-https://www.youtube.com/watch?v=xicoTma5dNE
 
 ## Medium 
 Candice Chi: https://medium.com/@chiweiju0/88f3d65ecd89
