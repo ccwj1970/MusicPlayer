@@ -52,3 +52,6 @@
 
 ## Youtube
 https://www.youtube.com/watch?v=xicoTma5dNE
+
+## Medium 
+Candice Chi: https://medium.com/@chiweiju0/88f3d65ecd89
