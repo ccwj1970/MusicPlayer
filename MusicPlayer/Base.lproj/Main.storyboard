@@ -188,22 +188,6 @@
             </objects>
             <point key="canvasLocation" x="2221" y="1246"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="Uei-mX-sSI">
-            <objects>
-                <viewController id="2zk-wu-FrO" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="FG2-kR-Yfh">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="zcT-J8-2j9"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="wuO-qY-aqh"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="7VH-wh-HnV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="6667.93893129771" y="2066.9014084507044"/>
-        </scene>
         <!--Second-->
         <scene sceneID="V6n-V3-VT8">
             <objects>
@@ -286,7 +270,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4kV-Hd-KhU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4474" y="-446"/>
+            <point key="canvasLocation" x="3541" y="-335"/>
         </scene>
         <!--Bunun-->
         <scene sceneID="H9U-fh-4l0">
@@ -370,7 +354,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aPp-fk-UVK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5315" y="-404"/>
+            <point key="canvasLocation" x="4260" y="-335"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uVs-n1-5TR">
@@ -754,27 +738,6 @@
                     <navigationItem key="navigationItem" id="4ph-81-D8W"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cYX-qQ-k7h" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" id="0gl-0N-qgb">
-                    <rect key="frame" x="0.0" y="0.0" width="720" height="128"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <subviews>
-                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="trending 3" translatesAutoresizingMaskIntoConstraints="NO" id="pI1-xg-5jH">
-                            <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        </imageView>
-                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="trending 1" translatesAutoresizingMaskIntoConstraints="NO" id="pbR-mm-945">
-                            <rect key="frame" x="240" y="0.0" width="240" height="128"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        </imageView>
-                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="trending 2" translatesAutoresizingMaskIntoConstraints="NO" id="X79-E8-Ahu">
-                            <rect key="frame" x="478" y="0.0" width="240" height="128"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        </imageView>
-                    </subviews>
-                    <viewLayoutGuide key="safeArea" id="Vgk-6w-C4X"/>
-                    <viewLayoutGuide key="contentLayoutGuide" id="l3x-zN-jvK"/>
-                    <viewLayoutGuide key="frameLayoutGuide" id="IgH-qO-w4c"/>
-                </scrollView>
             </objects>
             <point key="canvasLocation" x="2350.3816793893129" y="-354.22535211267609"/>
         </scene>
@@ -1369,25 +1332,6 @@
             </objects>
             <point key="canvasLocation" x="5918" y="-1696"/>
         </scene>
-        <!--Item-->
-        <scene sceneID="hyo-i3-F7V">
-            <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="lnm-Pu-uL5" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="zH1-1v-fhP"/>
-                    <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Dck-KV-aOA">
-                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </navigationBar>
-                    <nil name="viewControllers"/>
-                    <connections>
-                        <segue destination="2zk-wu-FrO" kind="relationship" relationship="rootViewController" id="mOk-3K-xXF"/>
-                    </connections>
-                </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Lz0-sy-hsW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="5741.221374045801" y="2066.9014084507044"/>
-        </scene>
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="b6K-8i-XGE"/>
@@ -1426,9 +1370,6 @@
         <image name="volume.3" catalog="system" width="128" height="84"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
-        <systemColor name="systemBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="tableBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
