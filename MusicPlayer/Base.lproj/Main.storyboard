@@ -354,7 +354,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aPp-fk-UVK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4260" y="-335"/>
+            <point key="canvasLocation" x="3825" y="-1696"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uVs-n1-5TR">
@@ -1334,7 +1334,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="b6K-8i-XGE"/>
+        <segue reference="Vxl-Zr-OXe"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="album 1" width="818" height="810"/>
